@@ -1,6 +1,6 @@
-# QASS Template (QA Starter Structure)
+# QASS (QA Starter Structure) Template
 
-This repository provides a **ready-to-use file structure** for quality assurance and automation projects.  
+This repository provides a **ready-to-use file structure** for QA engineers and automation projects.  
 It is **framework-agnostic** — meaning you can adapt it to any testing tool or language of your choice.
 
 ---
